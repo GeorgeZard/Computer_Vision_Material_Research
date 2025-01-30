@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 Defect_Detection_Analysis/defect_react/node_modules/@alloc/quick-lru/index.js
 Defect_Detection_Analysis/defect_react/node_modules/
+Faulty_solar_panel
+old_notebooks
